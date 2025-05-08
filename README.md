@@ -1,12 +1,33 @@
-### Hi there 👋
+### 🙏 Namaste Sewaro!
   [![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/RoshanLimbu123)  
+---
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m Roshan Limbu, a passionate Full Stack Developer with a strong background in building and maintaining scalable web applications.
+I thrive on working across the entire stack — from designing intuitive, user-friendly frontends to creating efficient backend APIs and managing robust databases.
+
+- 🧩 Passionate about building user-centric solutions and improving user experience.
+- 🔍 Detail-oriented, always striving for code efficiency and performance optimization.
+- 🚀 Excited about new technologies and keeping up with trends in the software industry.
+- 🌱 Advocate for sustainable coding practices, with a focus on scalability and maintainability.
+- 🎨 Enthusiastic about blending creativity with technical skills to deliver elegant solutions.
+- 🔄 Enjoys collaborating with cross-functional teams to drive innovation and achieve project goals.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanLimbu123&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](www.linkedin.com/in/roshan-limbu-a2a27818a)  
+- 💌 Email: limburoshan2075@gmail.com
+
+---
+
+> **"I don’t always test my code... but when I do, I do it in production."** 😅🔥
+

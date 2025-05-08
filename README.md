@@ -14,13 +14,6 @@ I thrive on working across the entire stack — from designing intuitive, user-f
 - 🎨 Enthusiastic about blending creativity with technical skills to deliver elegant solutions.
 - 🔄 Enjoys collaborating with cross-functional teams to drive innovation and achieve project goals.
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanLimbu123&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
@@ -29,5 +22,4 @@ I thrive on working across the entire stack — from designing intuitive, user-f
 
 ---
 
-> **"I don’t always test my code... but when I do, I do it in production."** 😅🔥
 

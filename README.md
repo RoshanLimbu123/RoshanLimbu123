@@ -17,7 +17,7 @@ I thrive on working across the entire stack — from designing intuitive, user-f
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/roshan-limbu-a2a27818a)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/roshan-limbu-a2a27818a)
 - 💌 Email: limburoshan2075@gmail.com
 
 ---
